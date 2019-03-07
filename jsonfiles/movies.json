@@ -1,0 +1,3694 @@
+{
+    "actors": [
+        "Faye Dunaway",
+        "James Whitmore",
+        "David Dukes",
+        "Brenda Vaccaro",
+        "Martin Gabel",
+        "Anthony Zerbe"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_First_Deadly_Sin",
+    "name": "The First Deadly Sin",
+    "weights": {
+        "Anthony Zerbe": 80,
+        "Brenda Vaccaro": 77,
+        "David Dukes": 55,
+        "Faye Dunaway": 76,
+        "James Whitmore": 87,
+        "Martin Gabel": 73
+    },
+    "year": 1980
+}{
+    "actors": [
+        "Paul Newman",
+        "Charlotte Rampling",
+        "Jack Warden",
+        "James Mason",
+        "Milo O'Shea"
+    ],
+    "grossing": 53977250,
+    "link": "https://en.wikipedia.org/wiki/The_Verdict",
+    "name": "The Verdict",
+    "weights": {
+        "Charlotte Rampling": 71,
+        "Jack Warden": 85,
+        "James Mason": 75,
+        "Paul Newman": 83
+    },
+    "year": 1982
+}{
+    "actors": [
+        "Kim Basinger",
+        "Bruce Willis",
+        "John Larroquette",
+        "William Daniels"
+    ],
+    "grossing": 39,
+    "link": "https://en.wikipedia.org/wiki/Blind_Date_(1987_film)",
+    "name": "Blind Date",
+    "weights": {
+        "Bruce Willis": 61,
+        "John Larroquette": 69,
+        "Kim Basinger": 63,
+        "William Daniels": 89
+    },
+    "year": 1987
+}{
+    "actors": [
+        "Bruce Willis",
+        "James Garner",
+        "Mariel Hemingway",
+        "Kathleen Quinlan",
+        "Jennifer Edwards",
+        "Malcolm McDowell"
+    ],
+    "grossing": 4594452,
+    "link": "https://en.wikipedia.org/wiki/Sunset_(film)",
+    "name": "Sunset",
+    "weights": {
+        "Bruce Willis": 61,
+        "James Garner": 86,
+        "Jennifer Edwards": -1,
+        "Kathleen Quinlan": 62,
+        "Malcolm McDowell": 73,
+        "Mariel Hemingway": 55
+    },
+    "year": 1988
+}{
+    "actors": [
+        "Bruce Willis",
+        "Alan Rickman",
+        "Alexander Godunov",
+        "Bonnie Bedelia"
+    ],
+    "grossing": 140,
+    "link": "https://en.wikipedia.org/wiki/Die_Hard",
+    "name": "Die Hard",
+    "weights": {
+        "Alan Rickman": 69,
+        "Alexander Godunov": 45,
+        "Bonnie Bedelia": 68,
+        "Bruce Willis": 61
+    },
+    "year": 1988
+}{
+    "actors": [
+        "Bruce Willis",
+        "Emily Lloyd"
+    ],
+    "grossing": 3531971,
+    "link": "https://en.wikipedia.org/wiki/In_Country",
+    "name": "In Country",
+    "weights": {
+        "Bruce Willis": 61,
+        "Emily Lloyd": 46
+    },
+    "year": 1989
+}{
+    "actors": [
+        "John Travolta",
+        "Kirstie Alley",
+        "Olympia Dukakis",
+        "George Segal",
+        "Abe Vigoda",
+        "Bruce Willis"
+    ],
+    "grossing": 297,
+    "link": "https://en.wikipedia.org/wiki/Look_Who%27s_Talking",
+    "name": "Look Who's Talking",
+    "weights": {
+        "Abe Vigoda": 94,
+        "Bruce Willis": 61,
+        "George Segal": 83,
+        "John Travolta": 63,
+        "Kirstie Alley": 66,
+        "Olympia Dukakis": 85
+    },
+    "year": 1989
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/That%27s_Adequate",
+    "name": "That's Adequate",
+    "weights": {},
+    "year": 1989
+}{
+    "actors": [
+        "Bruce Willis",
+        "Bonnie Bedelia",
+        "William Atherton",
+        "Reginald VelJohnson",
+        "Franco Nero",
+        "William Sadler (actor)",
+        "John Amos"
+    ],
+    "grossing": 240,
+    "link": "https://en.wikipedia.org/wiki/Die_Hard_2",
+    "name": "Die Hard 2",
+    "weights": {
+        "Bonnie Bedelia": 68,
+        "Bruce Willis": 61,
+        "Franco Nero": 75,
+        "John Amos": 77,
+        "Reginald VelJohnson": 64,
+        "William Atherton": 69,
+        "William Sadler (actor)": 66
+    },
+    "year": 0
+}{
+    "actors": [
+        "John Travolta",
+        "Kirstie Alley",
+        "Bruce Willis",
+        "Roseanne Barr",
+        "Damon Wayans",
+        "Olympia Dukakis",
+        "Elias Koteas"
+    ],
+    "grossing": 47,
+    "link": "https://en.wikipedia.org/wiki/Look_Who%27s_Talking_Too",
+    "name": "Look Who's Talking Too",
+    "weights": {
+        "Bruce Willis": 61,
+        "Damon Wayans": 56,
+        "Elias Koteas": 55,
+        "John Travolta": 63,
+        "Kirstie Alley": 66,
+        "Olympia Dukakis": 85,
+        "Roseanne Barr": 64
+    },
+    "year": 1990
+}{
+    "actors": [
+        "Tom Hanks",
+        "Bruce Willis",
+        "Melanie Griffith",
+        "Morgan Freeman"
+    ],
+    "grossing": 15691192,
+    "link": "https://en.wikipedia.org/wiki/The_Bonfire_of_the_Vanities_(film)",
+    "name": "The Bonfire of the Vanities",
+    "weights": {
+        "Bruce Willis": 61,
+        "Melanie Griffith": 59,
+        "Morgan Freeman": 79,
+        "Tom Hanks": 60
+    },
+    "year": 1990
+}{
+    "actors": [
+        "Demi Moore",
+        "Glenne Headly",
+        "Bruce Willis",
+        "John Pankow",
+        "Harvey Keitel"
+    ],
+    "grossing": 19018321,
+    "link": "https://en.wikipedia.org/wiki/Mortal_Thoughts",
+    "name": "Mortal Thoughts",
+    "weights": {
+        "Bruce Willis": 61,
+        "Demi Moore": 54,
+        "Glenne Headly": 61,
+        "Harvey Keitel": 77,
+        "John Pankow": 59
+    },
+    "year": 1991
+}{
+    "actors": [
+        "Danny Aiello",
+        "Andie MacDowell",
+        "Richard E. Grant",
+        "Sandra Bernhard",
+        "Donald Burton",
+        "James Coburn"
+    ],
+    "grossing": 17,
+    "link": "https://en.wikipedia.org/wiki/Hudson_Hawk",
+    "name": "Hudson Hawk",
+    "weights": {
+        "Andie MacDowell": 58,
+        "Danny Aiello": 83,
+        "Donald Burton": -1,
+        "James Coburn": 74,
+        "Richard E. Grant": 59,
+        "Sandra Bernhard": 61
+    },
+    "year": 1991
+}{
+    "actors": [
+        "Dustin Hoffman",
+        "Nicole Kidman",
+        "Steven Hill",
+        "Loren Dean",
+        "Bruce Willis"
+    ],
+    "grossing": 15565363,
+    "link": "https://en.wikipedia.org/wiki/Billy_Bathgate_(film)",
+    "name": "Billy Bathgate",
+    "weights": {
+        "Bruce Willis": 61,
+        "Dustin Hoffman": 79,
+        "Loren Dean": 47,
+        "Nicole Kidman": 49,
+        "Steven Hill": 94
+    },
+    "year": 1991
+}{
+    "actors": [
+        "Bruce Willis",
+        "Damon Wayans",
+        "Chelsea Field",
+        "Noble Willingham",
+        "Taylor Negron",
+        "Danielle Harris"
+    ],
+    "grossing": 59,
+    "link": "https://en.wikipedia.org/wiki/The_Last_Boy_Scout",
+    "name": "The Last Boy Scout",
+    "weights": {
+        "Bruce Willis": 61,
+        "Chelsea Field": 59,
+        "Damon Wayans": 56,
+        "Danielle Harris": 39,
+        "Noble Willingham": -1,
+        "Taylor Negron": 57
+    },
+    "year": 1991
+}{
+    "actors": [
+        "Tim Robbins",
+        "Greta Scacchi",
+        "Fred Ward",
+        "Whoopi Goldberg",
+        "Peter Gallagher",
+        "Brion James",
+        "Cynthia Stevenson"
+    ],
+    "grossing": 21706100,
+    "link": "https://en.wikipedia.org/wiki/The_Player_(film)",
+    "name": "The Player",
+    "weights": {
+        "Brion James": -1,
+        "Cynthia Stevenson": 54,
+        "Fred Ward": 74,
+        "Greta Scacchi": 57,
+        "Peter Gallagher": 61,
+        "Tim Robbins": 58,
+        "Whoopi Goldberg": 61
+    },
+    "year": 1992
+}{
+    "actors": [
+        "Goldie Hawn",
+        "Bruce Willis",
+        "Meryl Streep",
+        "Isabella Rossellini"
+    ],
+    "grossing": 149,
+    "link": "https://en.wikipedia.org/wiki/Death_Becomes_Her",
+    "name": "Death Becomes Her",
+    "weights": {
+        "Bruce Willis": 61,
+        "Goldie Hawn": 71,
+        "Isabella Rossellini": 64,
+        "Meryl Streep": 67
+    },
+    "year": 1992
+}{
+    "actors": [
+        "Emilio Estevez",
+        "Samuel L. Jackson",
+        "Jon Lovitz",
+        "Tim Curry",
+        "Kathy Ireland",
+        "William Shatner"
+    ],
+    "grossing": 28,
+    "link": "https://en.wikipedia.org/wiki/Loaded_Weapon_1",
+    "name": "Loaded Weapon 1",
+    "weights": {
+        "Emilio Estevez": 54,
+        "Jon Lovitz": 59,
+        "Kathy Ireland": 53,
+        "Samuel L. Jackson": 68,
+        "Tim Curry": 70,
+        "William Shatner": 85
+    },
+    "year": 0
+}{
+    "actors": [
+        "Bruce Willis",
+        "Sarah Jessica Parker",
+        "Dennis Farina",
+        "Tom Sizemore"
+    ],
+    "grossing": 24107867,
+    "link": "https://en.wikipedia.org/wiki/Striking_Distance",
+    "name": "Striking Distance",
+    "weights": {
+        "Bruce Willis": 61,
+        "Dennis Farina": 69,
+        "Sarah Jessica Parker": 51,
+        "Tom Sizemore": 55
+    },
+    "year": 1993
+}{
+    "actors": [
+        "Bruce Willis",
+        "Jane March",
+        "Ruben Blades",
+        "Lesley Ann Warren",
+        "Brad Dourif",
+        "Lance Henriksen",
+        "Kevin J. O'Connor (actor)"
+    ],
+    "grossing": 19750470,
+    "link": "https://en.wikipedia.org/wiki/Color_of_Night",
+    "name": "Color of Night",
+    "weights": {
+        "Brad Dourif": 66,
+        "Bruce Willis": 61,
+        "Jane March": 43,
+        "Lance Henriksen": 76,
+        "Lesley Ann Warren": 70,
+        "Ruben Blades": 68
+    },
+    "year": 1994
+}{
+    "actors": [
+        "Elijah Wood",
+        "Jon Lovitz",
+        "Jason Alexander",
+        "Alan Arkin",
+        "Dan Aykroyd",
+        "Kathy Bates",
+        "Faith Ford",
+        "Graham Greene (actor)",
+        "Julia Louis-Dreyfus",
+        "Reba McEntire",
+        "John Ritter",
+        "Abe Vigoda",
+        "Bruce Willis"
+    ],
+    "grossing": 7,
+    "link": "https://en.wikipedia.org/wiki/North_(1994_film)",
+    "name": "North",
+    "weights": {
+        "Abe Vigoda": 94,
+        "Alan Arkin": 82,
+        "Bruce Willis": 61,
+        "Dan Aykroyd": 64,
+        "Elijah Wood": 36,
+        "Faith Ford": 52,
+        "Graham Greene (actor)": 64,
+        "Jason Alexander": 57,
+        "John Ritter": -1,
+        "Jon Lovitz": 59,
+        "Julia Louis-Dreyfus": 56,
+        "Kathy Bates": 68,
+        "Reba McEntire": 61
+    },
+    "year": 1994
+}{
+    "actors": [
+        "John Travolta",
+        "Samuel L. Jackson",
+        "Uma Thurman",
+        "Harvey Keitel",
+        "Tim Roth",
+        "Amanda Plummer",
+        "Maria de Medeiros",
+        "Ving Rhames",
+        "Eric Stoltz",
+        "Rosanna Arquette",
+        "Christopher Walken",
+        "Bruce Willis"
+    ],
+    "grossing": 213,
+    "link": "https://en.wikipedia.org/wiki/Pulp_Fiction",
+    "name": "Pulp Fiction",
+    "weights": {
+        "Amanda Plummer": 59,
+        "Bruce Willis": 61,
+        "Christopher Walken": 73,
+        "Eric Stoltz": 55,
+        "Harvey Keitel": 77,
+        "John Travolta": 63,
+        "Maria de Medeiros": 51,
+        "Rosanna Arquette": 57,
+        "Samuel L. Jackson": 68,
+        "Tim Roth": 55,
+        "Uma Thurman": 46,
+        "Ving Rhames": 57
+    },
+    "year": 1994
+}{
+    "actors": [
+        "Paul Newman",
+        "Jessica Tandy",
+        "Melanie Griffith"
+    ],
+    "grossing": 39491975,
+    "link": "https://en.wikipedia.org/wiki/Nobody%27s_Fool_(1994_film)",
+    "name": "Nobody's Fool",
+    "weights": {
+        "Jessica Tandy": 85,
+        "Melanie Griffith": 59,
+        "Paul Newman": 83
+    },
+    "year": 1994
+}{
+    "actors": [
+        "Bruce Willis",
+        "Jeremy Irons",
+        "Samuel L. Jackson",
+        "Graham Greene (actor)",
+        "Colleen Camp",
+        "Larry Bryggman",
+        "Sam Phillips (musician)"
+    ],
+    "grossing": 366,
+    "link": "https://en.wikipedia.org/wiki/Die_Hard_with_a_Vengeance",
+    "name": "Die Hard with a Vengeance",
+    "weights": {
+        "Bruce Willis": 61,
+        "Colleen Camp": 63,
+        "Graham Greene (actor)": 64,
+        "Jeremy Irons": 68,
+        "Larry Bryggman": 78,
+        "Sam Phillips (musician)": 55,
+        "Samuel L. Jackson": 68
+    },
+    "year": 1995
+}{
+    "actors": [
+        "Tim Roth",
+        "Antonio Banderas",
+        "Jennifer Beals",
+        "Paul Calderon",
+        "Sammi Davis",
+        "Valeria Golino",
+        "Madonna (entertainer)",
+        "David Proval",
+        "Ione Skye",
+        "Lili Taylor",
+        "Marisa Tomei",
+        "Tamlyn Tomita"
+    ],
+    "grossing": 4257354,
+    "link": "https://en.wikipedia.org/wiki/Four_Rooms",
+    "name": "Four Rooms",
+    "weights": {
+        "Antonio Banderas": 56,
+        "David Proval": 74,
+        "Ione Skye": 46,
+        "Jennifer Beals": 53,
+        "Lili Taylor": 49,
+        "Madonna (entertainer)": 58,
+        "Marisa Tomei": 52,
+        "Paul Calderon": -1,
+        "Sammi Davis": 52,
+        "Tamlyn Tomita": 51,
+        "Tim Roth": 55,
+        "Valeria Golino": 51
+    },
+    "year": 1995
+}{
+    "actors": [
+        "Bruce Willis",
+        "Madeleine Stowe",
+        "Brad Pitt",
+        "Christopher Plummer"
+    ],
+    "grossing": 168,
+    "link": "https://en.wikipedia.org/wiki/12_Monkeys",
+    "name": "12 Monkeys",
+    "weights": {
+        "Brad Pitt": 53,
+        "Bruce Willis": 61,
+        "Christopher Plummer": 87,
+        "Madeleine Stowe": 58
+    },
+    "year": 12
+}{
+    "actors": [
+        "Bruce Willis",
+        "Christopher Walken",
+        "Alexandra Powers",
+        "David Patrick Kelly",
+        "Karina Lombard",
+        "Bruce Dern"
+    ],
+    "grossing": 47267001,
+    "link": "https://en.wikipedia.org/wiki/Last_Man_Standing_(film)",
+    "name": "Last Man Standing",
+    "weights": {
+        "Alexandra Powers": 49,
+        "Bruce Dern": 80,
+        "Bruce Willis": 61,
+        "Christopher Walken": 73,
+        "David Patrick Kelly": 66,
+        "Karina Lombard": 48
+    },
+    "year": 1996
+}{
+    "actors": [
+        "Demi Moore",
+        "Bruce Willis",
+        "Robert Stack",
+        "Cloris Leachman"
+    ],
+    "grossing": 63,
+    "link": "https://en.wikipedia.org/wiki/Beavis_and_Butt-Head_Do_America",
+    "name": "Beavis and Butt-Head Do America",
+    "weights": {
+        "Bruce Willis": 61,
+        "Cloris Leachman": 90,
+        "Demi Moore": 54,
+        "Robert Stack": 84
+    },
+    "year": 1996
+}{
+    "actors": [
+        "Bruce Willis",
+        "Gary Oldman",
+        "Ian Holm",
+        "Chris Tucker",
+        "Milla Jovovich"
+    ],
+    "grossing": 263,
+    "link": "https://en.wikipedia.org/wiki/The_Fifth_Element",
+    "name": "The Fifth Element",
+    "weights": {
+        "Bruce Willis": 61,
+        "Chris Tucker": 45,
+        "Gary Oldman": 58,
+        "Ian Holm": 85,
+        "Milla Jovovich": 41
+    },
+    "year": 0
+}{
+    "actors": [
+        "Bruce Willis",
+        "Richard Gere",
+        "Sidney Poitier",
+        "Diane Venora"
+    ],
+    "grossing": 159,
+    "link": "https://en.wikipedia.org/wiki/The_Jackal_(1997_film)",
+    "name": "The Jackal",
+    "weights": {
+        "Bruce Willis": 61,
+        "Diane Venora": 64,
+        "Richard Gere": 67,
+        "Sidney Poitier": 90
+    },
+    "year": 1997
+}{
+    "actors": [
+        "Bruce Willis",
+        "Alec Baldwin",
+        "Chi McBride",
+        "Kim Dickens"
+    ],
+    "grossing": 93,
+    "link": "https://en.wikipedia.org/wiki/Mercury_Rising",
+    "name": "Mercury Rising",
+    "weights": {
+        "Alec Baldwin": 58,
+        "Bruce Willis": 61,
+        "Chi McBride": 55,
+        "Kim Dickens": 51
+    },
+    "year": 1998
+}{
+    "actors": [
+        "Bruce Willis",
+        "Billy Bob Thornton",
+        "Liv Tyler",
+        "Ben Affleck",
+        "Will Patton",
+        "Peter Stormare",
+        "Keith David",
+        "Steve Buscemi"
+    ],
+    "grossing": 553,
+    "link": "https://en.wikipedia.org/wiki/Armageddon_(1998_film)",
+    "name": "Armageddon",
+    "weights": {
+        "Ben Affleck": 44,
+        "Billy Bob Thornton": 61,
+        "Bruce Willis": 61,
+        "Keith David": 60,
+        "Liv Tyler": 39,
+        "Peter Stormare": 63,
+        "Steve Buscemi": 59,
+        "Will Patton": 62
+    },
+    "year": 1998
+}{
+    "actors": [
+        "Denzel Washington",
+        "Annette Bening",
+        "Bruce Willis",
+        "Tony Shalhoub",
+        "Sami Bouajila",
+        "David Proval"
+    ],
+    "grossing": 116,
+    "link": "https://en.wikipedia.org/wiki/The_Siege_(1998_film)",
+    "name": "The Siege",
+    "weights": {
+        "Annette Bening": 58,
+        "Bruce Willis": 61,
+        "David Proval": 74,
+        "Denzel Washington": 62,
+        "Sami Bouajila": 50,
+        "Tony Shalhoub": 63
+    },
+    "year": 1998
+}{
+    "actors": [
+        "Bruce Willis",
+        "Albert Finney",
+        "Nick Nolte",
+        "Barbara Hershey",
+        "Glenne Headly",
+        "Lukas Haas",
+        "Omar Epps",
+        "Vicki Lewis",
+        "Buck Henry",
+        "Ken Hudson Campbell"
+    ],
+    "grossing": 178278,
+    "link": "https://en.wikipedia.org/wiki/Breakfast_of_Champions_(film)",
+    "name": "Breakfast of Champions",
+    "weights": {
+        "Albert Finney": 80,
+        "Barbara Hershey": 69,
+        "Bruce Willis": 61,
+        "Buck Henry": 86,
+        "Glenne Headly": 61,
+        "Ken Hudson Campbell": 54,
+        "Lukas Haas": 40,
+        "Nick Nolte": 76,
+        "Omar Epps": 43,
+        "Vicki Lewis": 56
+    },
+    "year": 1999
+}{
+    "actors": [
+        "Bruce Willis",
+        "Toni Collette",
+        "Olivia Williams",
+        "Haley Joel Osment"
+    ],
+    "grossing": 672,
+    "link": "https://en.wikipedia.org/wiki/The_Sixth_Sense",
+    "name": "The Sixth Sense",
+    "weights": {
+        "Bruce Willis": 61,
+        "Haley Joel Osment": 28,
+        "Olivia Williams": 48,
+        "Toni Collette": 44
+    },
+    "year": 1999
+}{
+    "actors": [
+        "Bruce Willis",
+        "Michelle Pfeiffer"
+    ],
+    "grossing": 58900031,
+    "link": "https://en.wikipedia.org/wiki/The_Story_of_Us_(film)",
+    "name": "The Story of Us",
+    "weights": {
+        "Bruce Willis": 61,
+        "Michelle Pfeiffer": 58
+    },
+    "year": 1999
+}{
+    "actors": [],
+    "grossing": 106371651,
+    "link": "https://en.wikipedia.org/wiki/The_Whole_Nine_Yards_(film)",
+    "name": "The Whole Nine Yards",
+    "weights": {},
+    "year": 2000
+}{
+    "actors": [
+        "Bruce Willis",
+        "Spencer Breslin",
+        "Emily Mortimer",
+        "Lily Tomlin",
+        "Chi McBride"
+    ],
+    "grossing": 110,
+    "link": "https://en.wikipedia.org/wiki/Disney%27s_The_Kid",
+    "name": "The Kid",
+    "weights": {
+        "Bruce Willis": 61,
+        "Chi McBride": 55,
+        "Emily Mortimer": 45,
+        "Lily Tomlin": 77,
+        "Spencer Breslin": 24
+    },
+    "year": 0
+}{
+    "actors": [
+        "Bruce Willis",
+        "Samuel L. Jackson",
+        "Robin Wright Penn",
+        "Spencer Treat Clark"
+    ],
+    "grossing": 248,
+    "link": "https://en.wikipedia.org/wiki/Unbreakable_(film)",
+    "name": "Unbreakable",
+    "weights": {
+        "Bruce Willis": 61,
+        "Robin Wright Penn": 50,
+        "Samuel L. Jackson": 68,
+        "Spencer Treat Clark": 29
+    },
+    "year": 2000
+}{
+    "actors": [],
+    "grossing": 67,
+    "link": "https://en.wikipedia.org/wiki/Bandits_(2001_film)",
+    "name": "Bandits",
+    "weights": {},
+    "year": 2001
+}{
+    "actors": [
+        "Bruce Willis",
+        "Colin Farrell",
+        "Terrence Howard",
+        "Cole Hauser",
+        "Marcel Iure\u015f"
+    ],
+    "grossing": 32,
+    "link": "https://en.wikipedia.org/wiki/Hart%27s_War",
+    "name": "Hart's War",
+    "weights": {
+        "Bruce Willis": 61,
+        "Cole Hauser": 41,
+        "Colin Farrell": 40,
+        "Terrence Howard": 47
+    },
+    "year": 2002
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/True_West_(play)#performances",
+    "name": "True West",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Steve Irwin",
+        "Terri Irwin",
+        "Magda Szubanski",
+        "David Wenham"
+    ],
+    "grossing": 33,
+    "link": "https://en.wikipedia.org/wiki/The_Crocodile_Hunter:_Collision_Course",
+    "name": "The Crocodile Hunter: Collision Course",
+    "weights": {
+        "David Wenham": 51,
+        "Magda Szubanski": 55,
+        "Steve Irwin": 44,
+        "Terri Irwin": 52
+    },
+    "year": 2002
+}{
+    "actors": [],
+    "grossing": 54579,
+    "link": "https://en.wikipedia.org/wiki/Grand_Champion",
+    "name": "Grand Champion",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 86,
+    "link": "https://en.wikipedia.org/wiki/Tears_of_the_Sun",
+    "name": "Tears of the Sun",
+    "weights": {},
+    "year": 2003
+}{
+    "actors": [
+        "Elizabeth Daily",
+        "Nancy Cartwright",
+        "Kath Soucie",
+        "Dionne Quan",
+        "Cheryl Chase",
+        "Tim Curry",
+        "Lacey Chabert"
+    ],
+    "grossing": 55,
+    "link": "https://en.wikipedia.org/wiki/Rugrats_Go_Wild",
+    "name": "Rugrats Go Wild",
+    "weights": {
+        "Cheryl Chase": 58,
+        "Dionne Quan": 38,
+        "Elizabeth Daily": 55,
+        "Kath Soucie": -1,
+        "Lacey Chabert": 34,
+        "Nancy Cartwright": 59,
+        "Tim Curry": 70
+    },
+    "year": 2003
+}{
+    "actors": [
+        "Cameron Diaz",
+        "Lucy Liu",
+        "Bernie Mac",
+        "John Forsythe",
+        "Justin Theroux",
+        "Demi Moore",
+        "Rodrigo Santoro",
+        "Crispin Glover",
+        "Shia LaBeouf"
+    ],
+    "grossing": 259,
+    "link": "https://en.wikipedia.org/wiki/Charlie%27s_Angels:_Full_Throttle",
+    "name": "Charlie's Angels: Full Throttle",
+    "weights": {
+        "Bernie Mac": 50,
+        "Cameron Diaz": 44,
+        "Crispin Glover": 52,
+        "Demi Moore": 54,
+        "John Forsythe": -1,
+        "Justin Theroux": 45,
+        "Lucy Liu": 48,
+        "Rodrigo Santoro": 41,
+        "Shia LaBeouf": 30
+    },
+    "year": 2003
+}{
+    "actors": [],
+    "grossing": 26155781,
+    "link": "https://en.wikipedia.org/wiki/The_Whole_Ten_Yards",
+    "name": "The Whole Ten Yards",
+    "weights": {},
+    "year": 2004
+}{
+    "actors": [],
+    "grossing": 362,
+    "link": "https://en.wikipedia.org/wiki/Ocean%27s_Twelve",
+    "name": "Ocean's Twelve",
+    "weights": {},
+    "year": 2004
+}{
+    "actors": [
+        "Kevin Pollak",
+        "Ben Foster",
+        "Jonathan Tucker",
+        "Jimmy Bennett",
+        "Michelle Horn"
+    ],
+    "grossing": 77,
+    "link": "https://en.wikipedia.org/wiki/Hostage_(film)",
+    "name": "Hostage",
+    "weights": {
+        "Ben Foster": 36,
+        "Jimmy Bennett": 21,
+        "Jonathan Tucker": 34,
+        "Kevin Pollak": 59,
+        "Michelle Horn": 29
+    },
+    "year": 2005
+}{
+    "actors": [
+        "Bruce Willis",
+        "Mickey Rourke",
+        "Clive Owen",
+        "Jessica Alba",
+        "Benicio del Toro",
+        "Brittany Murphy",
+        "Elijah Wood"
+    ],
+    "grossing": 158,
+    "link": "https://en.wikipedia.org/wiki/Sin_City_(film)",
+    "name": "Sin City",
+    "weights": {
+        "Benicio del Toro": 49,
+        "Brittany Murphy": 32,
+        "Bruce Willis": 61,
+        "Clive Owen": 52,
+        "Elijah Wood": 36,
+        "Jessica Alba": 35,
+        "Mickey Rourke": 64
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 32,
+    "link": "https://en.wikipedia.org/wiki/Alpha_Dog",
+    "name": "Alpha Dog",
+    "weights": {},
+    "year": 2006
+}{
+    "actors": [],
+    "grossing": 65,
+    "link": "https://en.wikipedia.org/wiki/16_Blocks",
+    "name": "16 Blocks",
+    "weights": {},
+    "year": 2006
+}{
+    "actors": [],
+    "grossing": 2209322,
+    "link": "https://en.wikipedia.org/wiki/Fast_Food_Nation_(film)",
+    "name": "Fast Food Nation",
+    "weights": {},
+    "year": 2006
+}{
+    "actors": [
+        "Josh Hartnett",
+        "Lucy Liu",
+        "Bruce Willis",
+        "Morgan Freeman",
+        "Ben Kingsley",
+        "Stanley Tucci"
+    ],
+    "grossing": 56,
+    "link": "https://en.wikipedia.org/wiki/Lucky_Number_Slevin",
+    "name": "Lucky Number Slevin",
+    "weights": {
+        "Ben Kingsley": 73,
+        "Bruce Willis": 61,
+        "Josh Hartnett": 38,
+        "Lucy Liu": 48,
+        "Morgan Freeman": 79,
+        "Stanley Tucci": 56
+    },
+    "year": 0
+}{
+    "actors": [
+        "Bruce Willis",
+        "Garry Shandling",
+        "Steve Carell",
+        "William Shatner",
+        "Wanda Sykes",
+        "Nick Nolte"
+    ],
+    "grossing": 336,
+    "link": "https://en.wikipedia.org/wiki/Over_the_Hedge_(film)",
+    "name": "Over the Hedge",
+    "weights": {
+        "Bruce Willis": 61,
+        "Garry Shandling": 66,
+        "Nick Nolte": 76,
+        "Steve Carell": 54,
+        "Wanda Sykes": 52,
+        "William Shatner": 85
+    },
+    "year": 2006
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Hammy%27s_Boomerang_Adventure",
+    "name": "Hammy's Boomerang Adventure",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 11130889,
+    "link": "https://en.wikipedia.org/wiki/The_Astronaut_Farmer",
+    "name": "The Astronaut Farmer",
+    "weights": {},
+    "year": 2007
+}{
+    "actors": [],
+    "grossing": 73090611,
+    "link": "https://en.wikipedia.org/wiki/Perfect_Stranger_(film)",
+    "name": "Perfect Stranger",
+    "weights": {},
+    "year": 2007
+}{
+    "actors": [],
+    "grossing": 25,
+    "link": "https://en.wikipedia.org/wiki/Grindhouse_(film)",
+    "name": "Grindhouse",
+    "weights": {},
+    "year": 2007
+}{
+    "actors": [
+        "Rose McGowan",
+        "Freddy Rodriguez (actor)",
+        "Michael Biehn",
+        "Jeff Fahey",
+        "Josh Brolin",
+        "Marley Shelton",
+        "Stacy Ferguson",
+        "Bruce Willis"
+    ],
+    "grossing": 10,
+    "link": "https://en.wikipedia.org/wiki/Planet_Terror",
+    "name": "Planet Terror",
+    "weights": {
+        "Bruce Willis": 61,
+        "Freddy Rodriguez (actor)": 42,
+        "Jeff Fahey": 64,
+        "Josh Brolin": 49,
+        "Marley Shelton": 42,
+        "Michael Biehn": 60,
+        "Rose McGowan": 43,
+        "Stacy Ferguson": 41
+    },
+    "year": 2007
+}{
+    "actors": [],
+    "grossing": 30,
+    "link": "https://en.wikipedia.org/wiki/Nancy_Drew_(2007_film)",
+    "name": "Nancy Drew",
+    "weights": {},
+    "year": 2007
+}{
+    "actors": [
+        "Bruce Willis",
+        "Justin Long",
+        "Timothy Olyphant",
+        "Mary Elizabeth Winstead",
+        "Maggie Q",
+        "Kevin Smith"
+    ],
+    "grossing": 383,
+    "link": "https://en.wikipedia.org/wiki/Live_Free_or_Die_Hard",
+    "name": "Live Free or Die Hard",
+    "weights": {
+        "Bruce Willis": 61,
+        "Justin Long": 38,
+        "Kevin Smith": 46,
+        "Maggie Q": 37,
+        "Mary Elizabeth Winstead": 32,
+        "Timothy Olyphant": 48
+    },
+    "year": 0
+}{
+    "actors": [
+        "Robert De Niro",
+        "Sean Penn",
+        "Catherine Keener",
+        "Stanley Tucci",
+        "John Turturro",
+        "Robin Wright (actress)",
+        "Moon Bloodgood",
+        "Kristen Stewart",
+        "Michael Wincott",
+        "Bruce Willis"
+    ],
+    "grossing": 6710888,
+    "link": "https://en.wikipedia.org/wiki/What_Just_Happened",
+    "name": "What Just Happened",
+    "weights": {
+        "Bruce Willis": 61,
+        "Catherine Keener": 57,
+        "John Turturro": 59,
+        "Kristen Stewart": 26,
+        "Michael Wincott": 59,
+        "Moon Bloodgood": 41,
+        "Robert De Niro": 73,
+        "Robin Wright (actress)": 50,
+        "Sean Penn": 56,
+        "Stanley Tucci": 56
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 6000000,
+    "link": "https://en.wikipedia.org/wiki/Assassination_of_a_High_School_President",
+    "name": "Assassination of a High School President",
+    "weights": {},
+    "year": 2008
+}{
+    "actors": [
+        "Bruce Willis",
+        "Radha Mitchell",
+        "Rosamund Pike",
+        "Boris Kodjoe",
+        "Jack Noseworthy",
+        "James Cromwell",
+        "Ving Rhames"
+    ],
+    "grossing": 122,
+    "link": "https://en.wikipedia.org/wiki/Surrogates",
+    "name": "Surrogates",
+    "weights": {
+        "Boris Kodjoe": 43,
+        "Bruce Willis": 61,
+        "Jack Noseworthy": 47,
+        "James Cromwell": 77,
+        "Radha Mitchell": 43,
+        "Rosamund Pike": 38,
+        "Ving Rhames": 57
+    },
+    "year": 2009
+}{
+    "actors": [
+        "Bruce Willis",
+        "Tracy Morgan",
+        "Adam Brody",
+        "Kevin Pollak",
+        "Guillermo D\u00edaz (actor)",
+        "Seann William Scott"
+    ],
+    "grossing": 55,
+    "link": "https://en.wikipedia.org/wiki/Cop_Out_(2010_film)",
+    "name": "Cop Out",
+    "weights": {
+        "Adam Brody": 37,
+        "Bruce Willis": 61,
+        "Kevin Pollak": 59,
+        "Seann William Scott": 40,
+        "Tracy Morgan": 48
+    },
+    "year": 2010
+}{
+    "actors": [
+        "Jason Statham",
+        "Jet Li",
+        "Dolph Lundgren",
+        "Eric Roberts",
+        "Randy Couture",
+        "Steve Austin",
+        "David Zayas",
+        "Giselle Iti\u00e9",
+        "Terry Crews",
+        "Mickey Rourke"
+    ],
+    "grossing": 274,
+    "link": "https://en.wikipedia.org/wiki/The_Expendables_(2010_film)",
+    "name": "The Expendables",
+    "weights": {
+        "David Zayas": 54,
+        "Dolph Lundgren": 59,
+        "Eric Roberts": 60,
+        "Jason Statham": 49,
+        "Jet Li": 53,
+        "Mickey Rourke": 64,
+        "Randy Couture": 53,
+        "Steve Austin": 52,
+        "Terry Crews": 48
+    },
+    "year": 2010
+}{
+    "actors": [
+        "Bruce Willis",
+        "Morgan Freeman",
+        "John Malkovich",
+        "Karl Urban",
+        "Mary-Louise Parker",
+        "Helen Mirren"
+    ],
+    "grossing": 199,
+    "link": "https://en.wikipedia.org/wiki/Red_(2010_film)",
+    "name": "Red",
+    "weights": {
+        "Bruce Willis": 61,
+        "Helen Mirren": 71,
+        "John Malkovich": 63,
+        "Karl Urban": 44,
+        "Mary-Louise Parker": 52,
+        "Morgan Freeman": 79
+    },
+    "year": 2010
+}{
+    "actors": [],
+    "grossing": 2128186,
+    "link": "https://en.wikipedia.org/wiki/Setup_(2011_film)",
+    "name": "Setup",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 1887,
+    "link": "https://en.wikipedia.org/wiki/Catch_.44",
+    "name": "Catch .44",
+    "weights": {},
+    "year": 2011
+}{
+    "actors": [
+        "Bruce Willis",
+        "Edward Norton",
+        "Bill Murray",
+        "Frances McDormand",
+        "Tilda Swinton",
+        "Jason Schwartzman",
+        "Bob Balaban"
+    ],
+    "grossing": 68,
+    "link": "https://en.wikipedia.org/wiki/Moonrise_Kingdom",
+    "name": "Moonrise Kingdom",
+    "weights": {
+        "Bill Murray": 66,
+        "Bob Balaban": 71,
+        "Bruce Willis": 61,
+        "Edward Norton": 47,
+        "Frances McDormand": 59,
+        "Jason Schwartzman": 36,
+        "Tilda Swinton": 56
+    },
+    "year": 2012
+}{
+    "actors": [],
+    "grossing": 1576687,
+    "link": "https://en.wikipedia.org/wiki/Lay_the_Favorite",
+    "name": "Lay the Favorite",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Jason Statham",
+        "Jet Li",
+        "Dolph Lundgren",
+        "Chuck Norris",
+        "Terry Crews",
+        "Randy Couture",
+        "Liam Hemsworth",
+        "Jean-Claude Van Damme",
+        "Bruce Willis",
+        "Arnold Schwarzenegger"
+    ],
+    "grossing": 305,
+    "link": "https://en.wikipedia.org/wiki/The_Expendables_2",
+    "name": "The Expendables 2",
+    "weights": {
+        "Arnold Schwarzenegger": 69,
+        "Bruce Willis": 61,
+        "Chuck Norris": 76,
+        "Dolph Lundgren": 59,
+        "Jason Statham": 49,
+        "Jean-Claude Van Damme": 56,
+        "Jet Li": 53,
+        "Liam Hemsworth": 27,
+        "Randy Couture": 53,
+        "Terry Crews": 48
+    },
+    "year": 2012
+}{
+    "actors": [
+        "Henry Cavill",
+        "Bruce Willis",
+        "Sigourney Weaver",
+        "Ver\u00f3nica Echegui"
+    ],
+    "grossing": 16,
+    "link": "https://en.wikipedia.org/wiki/The_Cold_Light_of_Day_(film)",
+    "name": "The Cold Light Of Day",
+    "weights": {
+        "Bruce Willis": 61,
+        "Henry Cavill": 33,
+        "Sigourney Weaver": 67
+    },
+    "year": 0
+}{
+    "actors": [
+        "Bruce Willis",
+        "Joseph Gordon-Levitt",
+        "Emily Blunt",
+        "Paul Dano",
+        "Noah Segan",
+        "Piper Perabo",
+        "Jeff Daniels"
+    ],
+    "grossing": 176,
+    "link": "https://en.wikipedia.org/wiki/Looper_(film)",
+    "name": "Looper",
+    "weights": {
+        "Bruce Willis": 61,
+        "Emily Blunt": 33,
+        "Jeff Daniels": 61,
+        "Joseph Gordon-Levitt": 36,
+        "Noah Segan": 33,
+        "Paul Dano": 32,
+        "Piper Perabo": 40
+    },
+    "year": 2012
+}{
+    "actors": [
+        "Josh Duhamel",
+        "Bruce Willis",
+        "Rosario Dawson",
+        "Nnamdi Asomugha"
+    ],
+    "grossing": 2,
+    "link": "https://en.wikipedia.org/wiki/Fire_with_Fire_(2012_film)",
+    "name": "Fire with Fire",
+    "weights": {
+        "Bruce Willis": 61,
+        "Josh Duhamel": 44,
+        "Nnamdi Asomugha": 35,
+        "Rosario Dawson": 37
+    },
+    "year": 2012
+}{
+    "actors": [
+        "Bruce Willis",
+        "Jai Courtney",
+        "Sebastian Koch",
+        "Cole Hauser",
+        "Yuliya Snigir"
+    ],
+    "grossing": 304,
+    "link": "https://en.wikipedia.org/wiki/A_Good_Day_to_Die_Hard",
+    "name": "A Good Day to Die Hard",
+    "weights": {
+        "Bruce Willis": 61,
+        "Cole Hauser": 41,
+        "Jai Courtney": 30,
+        "Sebastian Koch": 54,
+        "Yuliya Snigir": 33
+    },
+    "year": 2013
+}{
+    "actors": [
+        "D.J. Cotrona",
+        "Lee Byung-hun",
+        "Adrianne Palicki",
+        "Ray Park",
+        "Jonathan Pryce",
+        "Ray Stevenson (actor)",
+        "Channing Tatum",
+        "Bruce Willis",
+        "Dwayne Johnson"
+    ],
+    "grossing": 375,
+    "link": "https://en.wikipedia.org/wiki/G.I._Joe:_Retaliation",
+    "name": "G.I. Joe: Retaliation",
+    "weights": {
+        "Adrianne Palicki": 33,
+        "Bruce Willis": 61,
+        "Channing Tatum": 36,
+        "D.J. Cotrona": 36,
+        "Dwayne Johnson": 44,
+        "Jonathan Pryce": 69,
+        "Lee Byung-hun": 46,
+        "Ray Park": 42,
+        "Ray Stevenson (actor)": 52
+    },
+    "year": 2013
+}{
+    "actors": [],
+    "grossing": 148,
+    "link": "https://en.wikipedia.org/wiki/Red_2_(film)",
+    "name": "Red 2",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Mickey Rourke",
+        "Jessica Alba",
+        "Josh Brolin",
+        "Joseph Gordon-Levitt",
+        "Rosario Dawson",
+        "Bruce Willis",
+        "Eva Green",
+        "Powers Boothe",
+        "Dennis Haysbert",
+        "Ray Liotta",
+        "Jaime King",
+        "Christopher Lloyd",
+        "Jamie Chung",
+        "Jeremy Piven",
+        "Christopher Meloni",
+        "Juno Temple"
+    ],
+    "grossing": 39,
+    "link": "https://en.wikipedia.org/wiki/Sin_City:_A_Dame_to_Kill_For",
+    "name": "Sin City: A Dame to Kill For",
+    "weights": {
+        "Bruce Willis": 61,
+        "Christopher Lloyd": 78,
+        "Christopher Meloni": 55,
+        "Dennis Haysbert": 62,
+        "Eva Green": 36,
+        "Jaime King": 37,
+        "Jamie Chung": 33,
+        "Jeremy Piven": 51,
+        "Jessica Alba": 35,
+        "Joseph Gordon-Levitt": 36,
+        "Josh Brolin": 49,
+        "Juno Temple": 27,
+        "Mickey Rourke": 64,
+        "Powers Boothe": 68,
+        "Ray Liotta": 62,
+        "Rosario Dawson": 37
+    },
+    "year": 0
+}{
+    "actors": [
+        "Jason Patric",
+        "Bruce Willis",
+        "John Cusack",
+        "Rain (singer)",
+        "Jessica Lowndes",
+        "Jonathon Schaech",
+        "Gia Mantegna",
+        "50 Cent"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Prince_(2014_film)",
+    "name": "The Prince",
+    "weights": {
+        "50 Cent": 41,
+        "Bruce Willis": 61,
+        "Gia Mantegna": 26,
+        "Jason Patric": 50,
+        "Jessica Lowndes": 28,
+        "John Cusack": 50,
+        "Jonathon Schaech": 47,
+        "Rain (singer)": 34
+    },
+    "year": 2014
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Vice_(2015_film)",
+    "name": "Vice",
+    "weights": {},
+    "year": 2015
+}{
+    "actors": [
+        "Bill Murray",
+        "Kate Hudson",
+        "Zooey Deschanel",
+        "Danny McBride",
+        "Scott Caan",
+        "Leem Lubany",
+        "Arian Moayed",
+        "Bruce Willis"
+    ],
+    "grossing": 3,
+    "link": "https://en.wikipedia.org/wiki/Rock_the_Kasbah_(film)",
+    "name": "Rock the Kasbah",
+    "weights": {
+        "Arian Moayed": 36,
+        "Bill Murray": 66,
+        "Bruce Willis": 61,
+        "Danny McBride": 40,
+        "Kate Hudson": 37,
+        "Leem Lubany": -1,
+        "Scott Caan": 40,
+        "Zooey Deschanel": 37
+    },
+    "year": 2015
+}{
+    "actors": [],
+    "grossing": 3,
+    "link": "https://en.wikipedia.org/wiki/Extraction_(film)",
+    "name": "Extraction",
+    "weights": {},
+    "year": 2015
+}{
+    "actors": [
+        "Mark-Paul Gosselaar",
+        "Bruce Willis"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Precious_Cargo_(film)",
+    "name": "Precious Cargo",
+    "weights": {
+        "Bruce Willis": 61,
+        "Mark-Paul Gosselaar": 42
+    },
+    "year": 2016
+}{
+    "actors": [
+        "Christopher Meloni",
+        "Bruce Willis",
+        "Dave Bautista",
+        "Adrian Grenier",
+        "Johnathon Schaech",
+        "Texas Battle"
+    ],
+    "grossing": 1361000,
+    "link": "https://en.wikipedia.org/wiki/Marauders_(2016_film)",
+    "name": "Marauders",
+    "weights": {
+        "Adrian Grenier": 40,
+        "Bruce Willis": 61,
+        "Christopher Meloni": 55,
+        "Dave Bautista": 48,
+        "Johnathon Schaech": 47,
+        "Texas Battle": 36
+    },
+    "year": 2016
+}{
+    "actors": [
+        "James McAvoy",
+        "Anya Taylor-Joy",
+        "Betty Buckley"
+    ],
+    "grossing": 193,
+    "link": "https://en.wikipedia.org/wiki/Split_(2016_American_film)",
+    "name": "Split",
+    "weights": {
+        "Anya Taylor-Joy": 20,
+        "Betty Buckley": 69,
+        "James McAvoy": 37
+    },
+    "year": 2016
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Bombing_(film)",
+    "name": "The Bombing",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_in_Venice",
+    "name": "Once Upon a Time in Venice",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Bruce Willis",
+        "Hayden Christensen"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/First_Kill_(2017_film)",
+    "name": "First Kill",
+    "weights": {
+        "Bruce Willis": 61,
+        "Hayden Christensen": 35
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Death_Wish_(upcoming_film)",
+    "name": "Death Wish",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Happening_(1967_film)",
+    "name": "The Happening",
+    "weights": {},
+    "year": 1967
+}{
+    "actors": [
+        "Michael Caine",
+        "Jane Fonda",
+        "John Phillip Law",
+        "Diahann Carroll",
+        "Robert Hooks",
+        "Faye Dunaway",
+        "Burgess Meredith",
+        "Robert Reed",
+        "George Kennedy",
+        "Frank Converse",
+        "Loring Smith",
+        "Beah Richards",
+        "Madeleine Sherwood",
+        "Rex Ingram (actor)",
+        "Doro Merande",
+        "Luke Askew",
+        "Jim Backus"
+    ],
+    "grossing": 4050000,
+    "link": "https://en.wikipedia.org/wiki/Hurry_Sundown_(film)",
+    "name": "Hurry Sundown",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1967
+}{
+    "actors": [
+        "Faye Dunaway",
+        "Michael J. Pollard",
+        "Gene Hackman",
+        "Estelle Parsons"
+    ],
+    "grossing": 70,
+    "link": "https://en.wikipedia.org/wiki/Bonnie_and_Clyde_(film)",
+    "name": "Bonnie and Clyde",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1967
+}{
+    "actors": [],
+    "grossing": 124305181,
+    "link": "https://en.wikipedia.org/wiki/The_Thomas_Crown_Affair_(1999_film)",
+    "name": "The Thomas Crown Affair",
+    "weights": {},
+    "year": 1999
+}{
+    "actors": [
+        "Faye Dunaway",
+        "Marcello Mastroianni"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/A_Place_for_Lovers",
+    "name": "A Place for Lovers",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Extraordinary_Seaman",
+    "name": "The Extraordinary Seaman",
+    "weights": {},
+    "year": 1969
+}{
+    "actors": [],
+    "grossing": 4,
+    "link": "https://en.wikipedia.org/wiki/The_Arrangement_(1969_film)",
+    "name": "The Arrangement",
+    "weights": {},
+    "year": 1969
+}{
+    "actors": [],
+    "grossing": 31559552,
+    "link": "https://en.wikipedia.org/wiki/Little_Big_Man_(film)",
+    "name": "Little Big Man",
+    "weights": {},
+    "year": 1970
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Puzzle_of_a_Downfall_Child",
+    "name": "Puzzle of a Downfall Child",
+    "weights": {},
+    "year": 1970
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Deadly_Trap",
+    "name": "The Deadly Trap",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Doc_(film)",
+    "name": "Doc",
+    "weights": {},
+    "year": 1971
+}{
+    "actors": [],
+    "grossing": 2500000,
+    "link": "https://en.wikipedia.org/wiki/Oklahoma_Crude_(film)",
+    "name": "Oklahoma Crude",
+    "weights": {},
+    "year": 1973
+}{
+    "actors": [],
+    "grossing": 10,
+    "link": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(1973_film)",
+    "name": "The Three Musketeers",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Jack Nicholson",
+        "Faye Dunaway",
+        "John Hillerman",
+        "Perry Lopez",
+        "Burt Young",
+        "John Huston"
+    ],
+    "grossing": 29,
+    "link": "https://en.wikipedia.org/wiki/Chinatown_(1974_film)",
+    "name": "Chinatown",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1974
+}{
+    "actors": [],
+    "grossing": 139,
+    "link": "https://en.wikipedia.org/wiki/The_Towering_Inferno",
+    "name": "The Towering Inferno",
+    "weights": {},
+    "year": 1974
+}{
+    "actors": [],
+    "grossing": 8760000,
+    "link": "https://en.wikipedia.org/wiki/The_Four_Musketeers_(film)",
+    "name": "The Four Musketeers",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Robert Redford",
+        "Faye Dunaway",
+        "Cliff Robertson",
+        "Max von Sydow"
+    ],
+    "grossing": 41509797,
+    "link": "https://en.wikipedia.org/wiki/Three_Days_of_the_Condor",
+    "name": "Three Days of the Condor",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Voyage_of_the_Damned",
+    "name": "Voyage of the Damned",
+    "weights": {},
+    "year": 1976
+}{
+    "actors": [],
+    "grossing": 23689877,
+    "link": "https://en.wikipedia.org/wiki/Network_(film)",
+    "name": "Network",
+    "weights": {},
+    "year": 1976
+}{
+    "actors": [],
+    "grossing": 20,
+    "link": "https://en.wikipedia.org/wiki/Eyes_of_Laura_Mars",
+    "name": "Eyes of Laura Mars",
+    "weights": {},
+    "year": 1978
+}{
+    "actors": [],
+    "grossing": 30441738,
+    "link": "https://en.wikipedia.org/wiki/The_Champ_(1979_film)",
+    "name": "The Champ",
+    "weights": {},
+    "year": 1979
+}{
+    "actors": [
+        "Faye Dunaway",
+        "Diana Scarwid",
+        "Mara Hobel",
+        "Rutanya Alda",
+        "Steve Forrest (actor)"
+    ],
+    "grossing": 39,
+    "link": "https://en.wikipedia.org/wiki/Mommie_Dearest_(film)",
+    "name": "Mommie Dearest",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1981
+}{
+    "actors": [],
+    "grossing": 724912,
+    "link": "https://en.wikipedia.org/wiki/The_Wicked_Lady_(1983_film)",
+    "name": "The Wicked Lady",
+    "weights": {},
+    "year": 1983
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Ordeal_by_Innocence_(film)",
+    "name": "Ordeal by Innocence",
+    "weights": {},
+    "year": 1985
+}{
+    "actors": [
+        "Faye Dunaway",
+        "Helen Slater",
+        "Hart Bochner",
+        "Peter Cook",
+        "Mia Farrow",
+        "Marc McClure",
+        "Brenda Vaccaro",
+        "Peter O'Toole"
+    ],
+    "grossing": 14,
+    "link": "https://en.wikipedia.org/wiki/Supergirl_(film)",
+    "name": "Supergirl",
+    "weights": {
+        "Brenda Vaccaro": 77,
+        "Faye Dunaway": 76
+    },
+    "year": 1984
+}{
+    "actors": [
+        "Mickey Rourke",
+        "Faye Dunaway",
+        "Alice Krige",
+        "J.C. Quinn",
+        "Frank Stallone"
+    ],
+    "grossing": 3221568,
+    "link": "https://en.wikipedia.org/wiki/Barfly_(film)",
+    "name": "Barfly",
+    "weights": {
+        "Faye Dunaway": 76,
+        "Mickey Rourke": 64
+    },
+    "year": 1987
+}{
+    "actors": [],
+    "grossing": 1328001,
+    "link": "https://en.wikipedia.org/wiki/Midnight_Crossing",
+    "name": "Midnight Crossing",
+    "weights": {},
+    "year": 1988
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Gamble_(1988_film)",
+    "name": "The Gamble",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 172000,
+    "link": "https://en.wikipedia.org/wiki/Burning_Secret",
+    "name": "Burning Secret",
+    "weights": {},
+    "year": 1988
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Wait_Until_Spring,_Bandini",
+    "name": "Wait Until Spring, Bandini",
+    "weights": {},
+    "year": 1989
+}{
+    "actors": [
+        "Natasha Richardson",
+        "Faye Dunaway",
+        "Aidan Quinn",
+        "Elizabeth McGovern",
+        "Victoria Tennant",
+        "Robert Duvall"
+    ],
+    "grossing": 4960385,
+    "link": "https://en.wikipedia.org/wiki/The_Handmaid%27s_Tale_(film)",
+    "name": "The Handmaid's Tale",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1990
+}{
+    "actors": [
+        "Harvey Keitel",
+        "Meg Tilly",
+        "Madeleine Stowe",
+        "Eli Wallach",
+        "Rub\u00e9n Blades",
+        "Frederic Forrest",
+        "David Keith"
+    ],
+    "grossing": 10,
+    "link": "https://en.wikipedia.org/wiki/The_Two_Jakes",
+    "name": "The Two Jakes",
+    "weights": {
+        "Harvey Keitel": 77,
+        "Madeleine Stowe": 58
+    },
+    "year": 1990
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Scorchers_(film)",
+    "name": "Scorchers",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Johnny Depp",
+        "Jerry Lewis",
+        "Faye Dunaway",
+        "Lili Taylor",
+        "Vincent Gallo",
+        "Paulina Porizkova"
+    ],
+    "grossing": 112547,
+    "link": "https://en.wikipedia.org/wiki/Arizona_Dream",
+    "name": "Arizona Dream",
+    "weights": {
+        "Faye Dunaway": 76,
+        "Lili Taylor": 49
+    },
+    "year": 1993
+}{
+    "actors": [
+        "Timothy Hutton",
+        "Lara Flynn Boyle",
+        "Dwight Schultz",
+        "Oliver Platt",
+        "Faye Dunaway"
+    ],
+    "grossing": 6,
+    "link": "https://en.wikipedia.org/wiki/The_Temp_(film)",
+    "name": "The Temp",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1993
+}{
+    "actors": [
+        "Marlon Brando",
+        "Johnny Depp",
+        "Faye Dunaway",
+        "Rachel Ticotin",
+        "Bob Dishy",
+        "G\u00e9raldine Pailhas"
+    ],
+    "grossing": 68792531,
+    "link": "https://en.wikipedia.org/wiki/Don_Juan_DeMarco",
+    "name": "Don Juan DeMarco",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1995
+}{
+    "actors": [
+        "Richard Lewis (comedian)",
+        "Faye Dunaway",
+        "Spalding Gray",
+        "Amanda Plummer",
+        "Dianne Wiest"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Drunks_(film)",
+    "name": "Drunks",
+    "weights": {
+        "Amanda Plummer": 59,
+        "Faye Dunaway": 76
+    },
+    "year": 1995
+}{
+    "actors": [
+        "Jason Alexander",
+        "Faye Dunaway",
+        "Eric Lloyd",
+        "Rupert Everett",
+        "Glenn Shadix",
+        "Paul Reubens"
+    ],
+    "grossing": 9871065,
+    "link": "https://en.wikipedia.org/wiki/Dunston_Checks_In",
+    "name": "Dunston Checks In",
+    "weights": {
+        "Faye Dunaway": 76,
+        "Jason Alexander": 57
+    },
+    "year": 1996
+}{
+    "actors": [
+        "Matt Dillon",
+        "Faye Dunaway",
+        "Gary Sinise",
+        "William Fichtner",
+        "Viggo Mortensen",
+        "John Spencer (actor)",
+        "Skeet Ulrich",
+        "M. Emmet Walsh",
+        "Joe Mantegna"
+    ],
+    "grossing": 339379,
+    "link": "https://en.wikipedia.org/wiki/Albino_Alligator",
+    "name": "Albino Alligator",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1997
+}{
+    "actors": [
+        "Chris O'Donnell",
+        "Gene Hackman",
+        "Faye Dunaway",
+        "Lela Rochon",
+        "Robert Prosky",
+        "Raymond J. Barry",
+        "David Marshall Grant"
+    ],
+    "grossing": 22540359,
+    "link": "https://en.wikipedia.org/wiki/The_Chamber_(film)",
+    "name": "The Chamber",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 1996
+}{
+    "actors": [
+        "Juan Diego Botto",
+        "Faye Dunaway",
+        "Carme Elias"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/En_brazos_de_la_mujer_madura",
+    "name": "En brazos de la mujer madura",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Love_Lies_Bleeding_(1999_film)",
+    "name": "Love Lies Bleeding",
+    "weights": {},
+    "year": 1999
+}{
+    "actors": [
+        "Milla Jovovich",
+        "John Malkovich",
+        "Faye Dunaway",
+        "Dustin Hoffman",
+        "Gina McKee",
+        "Tch\u00e9ky Karyo"
+    ],
+    "grossing": 67,
+    "link": "https://en.wikipedia.org/wiki/The_Messenger:_The_Story_of_Joan_of_Arc",
+    "name": "The Messenger:\nThe Story of Joan of Arc",
+    "weights": {
+        "Dustin Hoffman": 79,
+        "Faye Dunaway": 76,
+        "John Malkovich": 63,
+        "Milla Jovovich": 41
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 889352,
+    "link": "https://en.wikipedia.org/wiki/The_Yards",
+    "name": "The Yards",
+    "weights": {},
+    "year": 2000
+}{
+    "actors": [],
+    "grossing": 11819244,
+    "link": "https://en.wikipedia.org/wiki/The_Rules_of_Attraction_(film)",
+    "name": "The Rules of Attraction",
+    "weights": {},
+    "year": 2002
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Blind_Horizon",
+    "name": "Blind Horizon",
+    "weights": {},
+    "year": 2003
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Rain_(2006_film)",
+    "name": "Rain",
+    "weights": {},
+    "year": 2006
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Cougar_Club",
+    "name": "Cougar Club",
+    "weights": {},
+    "year": 2007
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Say_It_in_Russian",
+    "name": "Say It in Russian",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Gene_Generation",
+    "name": "The Gene Generation",
+    "weights": {},
+    "year": 2007
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Rage_(2008_film)",
+    "name": "The Rage",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Flick_(2008_film)",
+    "name": "Flick",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Balladyna_(film)",
+    "name": "Balladyna",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/21_and_a_Wake-Up",
+    "name": "21 and Wake-Up",
+    "weights": {},
+    "year": 2009
+}{
+    "actors": [
+        "Mike Vogel",
+        "Erika Christensen",
+        "Faye Dunaway",
+        "Robert Forster"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Case_for_Christ",
+    "name": "The Case for Christ",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 0
+}{
+    "actors": [
+        "Nicolas Cage",
+        "Faye Dunaway",
+        "Gina Gershon"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Inconceivable_(2017_film)",
+    "name": "Inconceivable",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Command_Decision_(play)",
+    "name": "Command Decision",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 6269000,
+    "link": "https://en.wikipedia.org/wiki/Battleground_(film)",
+    "name": "Battleground",
+    "weights": {},
+    "year": 1949
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Give_%27em_Hell,_Harry!",
+    "name": "Give 'em Hell, Harry!",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Glory!_Glory!",
+    "name": "Glory! Glory!",
+    "weights": {},
+    "year": 1989
+}{
+    "actors": [
+        "Dylan McDermott",
+        "Lisa Gay Hamilton",
+        "Steve Harris (actor)",
+        "Camryn Manheim",
+        "Kelli Williams",
+        "Michael Badalucco",
+        "Lara Flynn Boyle",
+        "Marla Sokoloff",
+        "Jason Kravits",
+        "Ron Livingston",
+        "Jessica Capshaw",
+        "Chyler Leigh",
+        "Rhona Mitra",
+        "James Spader"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Practice",
+    "name": "The Practice",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Here%27s_to_Life!",
+    "name": "Here's to Life!",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Mister_Sterling",
+    "name": "Mister Sterling",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Where_It%27s_At_(film)",
+    "name": "Where It's At",
+    "weights": {},
+    "year": 1969
+}{
+    "actors": [],
+    "grossing": 44,
+    "link": "https://en.wikipedia.org/wiki/Midnight_Cowboy",
+    "name": "Midnight Cowboy",
+    "weights": {},
+    "year": 1969
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Summertree",
+    "name": "Summertree",
+    "weights": {},
+    "year": 1971
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Going_Home_(1971_film)",
+    "name": "Going Home",
+    "weights": {},
+    "year": 1971
+}{
+    "actors": [],
+    "grossing": 7,
+    "link": "https://en.wikipedia.org/wiki/Once_Is_Not_Enough_(film)",
+    "name": "Jacqueline Susann's Once Is Not Enough",
+    "weights": {},
+    "year": 1975
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Death_Weekend",
+    "name": "Death Weekend",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Capricorn_One",
+    "name": "Capricorn One",
+    "weights": {},
+    "year": 1977
+}{
+    "actors": [
+        "Jack Lemmon",
+        "Lee Grant",
+        "James Stewart",
+        "George Kennedy",
+        "Brenda Vaccaro",
+        "Christopher Lee",
+        "Joseph Cotten",
+        "Olivia de Havilland"
+    ],
+    "grossing": 30,
+    "link": "https://en.wikipedia.org/wiki/Airport_%2777",
+    "name": "Airport '77",
+    "weights": {
+        "Brenda Vaccaro": 77
+    },
+    "year": 1977
+}{
+    "actors": [],
+    "grossing": 444334,
+    "link": "https://en.wikipedia.org/wiki/Fast_Charlie..._the_Moonbeam_Rider",
+    "name": "Fast Charlie... the Moonbeam Rider",
+    "weights": {},
+    "year": 1979
+}{
+    "actors": [
+        "George Hamilton (actor)",
+        "Lauren Hutton",
+        "Ron Leibman",
+        "Brenda Vaccaro"
+    ],
+    "grossing": 5,
+    "link": "https://en.wikipedia.org/wiki/Zorro,_The_Gay_Blade",
+    "name": "Zorro, The Gay Blade",
+    "weights": {
+        "Brenda Vaccaro": 77
+    },
+    "year": 1981
+}{
+    "actors": [
+        "Michael Caine",
+        "Valerie Perrine",
+        "Brenda Vaccaro",
+        "Leonard Rossiter",
+        "Billy Connolly",
+        "Eric Clapton",
+        "George Harrison",
+        "Ringo Starr"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Water_(1985_film)",
+    "name": "Water",
+    "weights": {
+        "Brenda Vaccaro": 77
+    },
+    "year": 1985
+}{
+    "actors": [],
+    "grossing": 113000,
+    "link": "https://en.wikipedia.org/wiki/Heart_of_Midnight_(film)",
+    "name": "Heart of Midnight",
+    "weights": {},
+    "year": 1988
+}{
+    "actors": [
+        "Donald Pleasence",
+        "Brenda Vaccaro",
+        "Frank Stallone",
+        "Herbert Lom",
+        "Warren Berlinger",
+        "Moira Lister"
+    ],
+    "grossing": 59405,
+    "link": "https://en.wikipedia.org/wiki/Ten_Little_Indians_(1989_film)",
+    "name": "Ten Little Indians",
+    "weights": {
+        "Brenda Vaccaro": 77
+    },
+    "year": 1989
+}{
+    "actors": [
+        "Annette Bening",
+        "Katharine Hepburn",
+        "Garry Shandling",
+        "Chloe Webb",
+        "Pierce Brosnan",
+        "Kate Capshaw"
+    ],
+    "grossing": 18272894,
+    "link": "https://en.wikipedia.org/wiki/Love_Affair_(1994_film)",
+    "name": "Love Affair",
+    "weights": {
+        "Annette Bening": 58,
+        "Garry Shandling": 66
+    },
+    "year": 1994
+}{
+    "actors": [
+        "Jeff Bridges",
+        "Pierce Brosnan",
+        "George Segal",
+        "Mimi Rogers",
+        "Brenda Vaccaro",
+        "Lauren Bacall"
+    ],
+    "grossing": 91610201,
+    "link": "https://en.wikipedia.org/wiki/The_Mirror_Has_Two_Faces",
+    "name": "The Mirror Has Two Faces",
+    "weights": {
+        "Brenda Vaccaro": 77,
+        "George Segal": 83
+    },
+    "year": 1996
+}{
+    "actors": [],
+    "grossing": 30005,
+    "link": "https://en.wikipedia.org/wiki/Sonny_(film)",
+    "name": "Sonny",
+    "weights": {},
+    "year": 2002
+}{
+    "actors": [
+        "Julia Duffy",
+        "Charlie Adler",
+        "Amanda Bynes"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Charlotte%27s_Web_2:_Wilbur%27s_Great_Adventure",
+    "name": "Charlotte's Web 2:\nWilbur's Great Adventure",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Boynton_Beach_Club",
+    "name": "Boynton Beach Club",
+    "weights": {},
+    "year": 2005
+}{
+    "actors": [
+        "Charlize Theron",
+        "Art Parkinson",
+        "Ralph Fiennes",
+        "Rooney Mara",
+        "George Takei",
+        "Matthew McConaughey"
+    ],
+    "grossing": 76,
+    "link": "https://en.wikipedia.org/wiki/Kubo_and_the_Two_Strings",
+    "name": "Kubo and the Two Strings",
+    "weights": {},
+    "year": 2016
+}{
+    "actors": [
+        "Virginia Mayo",
+        "Pier Angeli",
+        "Jack Palance",
+        "Paul Newman"
+    ],
+    "grossing": 3,
+    "link": "https://en.wikipedia.org/wiki/The_Silver_Chalice_(film)",
+    "name": "The Silver Chalice",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1954
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Producers%27_Showcase",
+    "name": "Producers' Showcase",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Our_Town_(Producer%27s_Showcase)",
+    "name": "\"Our Town\"",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/United_States_Steel_Hour",
+    "name": "The United States Steel Hour",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 3360000,
+    "link": "https://en.wikipedia.org/wiki/Somebody_Up_There_Likes_Me_(1956_film)",
+    "name": "Somebody Up There Likes Me",
+    "weights": {},
+    "year": 1956
+}{
+    "actors": [],
+    "grossing": 765000,
+    "link": "https://en.wikipedia.org/wiki/The_Rack_(film)",
+    "name": "The Rack",
+    "weights": {},
+    "year": 1956
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Helen_Morgan_Story",
+    "name": "The Helen Morgan Story",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 1420000,
+    "link": "https://en.wikipedia.org/wiki/Until_They_Sail",
+    "name": "Until They Sail",
+    "weights": {},
+    "year": 1957
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Playhouse_90",
+    "name": "Playhouse 90",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 2853700,
+    "link": "https://en.wikipedia.org/wiki/The_Long,_Hot_Summer",
+    "name": "The Long, Hot Summer",
+    "weights": {},
+    "year": 1958
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Left_Handed_Gun",
+    "name": "The Left Handed Gun",
+    "weights": {},
+    "year": 1958
+}{
+    "actors": [],
+    "grossing": 11285000,
+    "link": "https://en.wikipedia.org/wiki/Cat_on_a_Hot_Tin_Roof_(film)",
+    "name": "Cat on a Hot Tin Roof",
+    "weights": {},
+    "year": 1958
+}{
+    "actors": [],
+    "grossing": 3,
+    "link": "https://en.wikipedia.org/wiki/Rally_%27Round_the_Flag,_Boys!_(film)",
+    "name": "Rally Round the Flag, Boys!",
+    "weights": {},
+    "year": 1958
+}{
+    "actors": [],
+    "grossing": 2,
+    "link": "https://en.wikipedia.org/wiki/The_Young_Philadelphians",
+    "name": "The Young Philadelphians",
+    "weights": {},
+    "year": 1959
+}{
+    "actors": [],
+    "grossing": 5,
+    "link": "https://en.wikipedia.org/wiki/From_the_Terrace",
+    "name": "From the Terrace",
+    "weights": {},
+    "year": 1960
+}{
+    "actors": [],
+    "grossing": 8700000,
+    "link": "https://en.wikipedia.org/wiki/Exodus_(1960_film)",
+    "name": "Exodus",
+    "weights": {},
+    "year": 1960
+}{
+    "actors": [],
+    "grossing": 7600000,
+    "link": "https://en.wikipedia.org/wiki/The_Hustler_(film)",
+    "name": "The Hustler",
+    "weights": {},
+    "year": 1961
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Paris_Blues",
+    "name": "Paris Blues",
+    "weights": {},
+    "year": 1961
+}{
+    "actors": [
+        "Paul Newman",
+        "Geraldine Page",
+        "Shirley Knight",
+        "Ed Begley",
+        "Rip Torn"
+    ],
+    "grossing": 7550000,
+    "link": "https://en.wikipedia.org/wiki/Sweet_Bird_of_Youth_(film)",
+    "name": "Sweet Bird of Youth",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1962
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Hemingway%27s_Adventures_of_a_Young_Man",
+    "name": "Hemingway's Adventures of a Young Man",
+    "weights": {},
+    "year": 1962
+}{
+    "actors": [],
+    "grossing": 10,
+    "link": "https://en.wikipedia.org/wiki/Hud_(1963_film)",
+    "name": "Hud",
+    "weights": {},
+    "year": 1963
+}{
+    "actors": [],
+    "grossing": 2250000,
+    "link": "https://en.wikipedia.org/wiki/A_New_Kind_of_Love",
+    "name": "A New Kind of Love",
+    "weights": {},
+    "year": 1963
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Prize_(1963_film)",
+    "name": "The Prize",
+    "weights": {},
+    "year": 1963
+}{
+    "actors": [],
+    "grossing": 11180531,
+    "link": "https://en.wikipedia.org/wiki/What_a_Way_to_Go!",
+    "name": "What a Way to Go!",
+    "weights": {},
+    "year": 1964
+}{
+    "actors": [],
+    "grossing": 1800000,
+    "link": "https://en.wikipedia.org/wiki/The_Outrage",
+    "name": "The Outrage",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 2,
+    "link": "https://en.wikipedia.org/wiki/Lady_L",
+    "name": "Lady L",
+    "weights": {},
+    "year": 1965
+}{
+    "actors": [],
+    "grossing": 12000000,
+    "link": "https://en.wikipedia.org/wiki/Harper_(film)",
+    "name": "Harper",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Paul Newman",
+        "Julie Andrews"
+    ],
+    "grossing": 13,
+    "link": "https://en.wikipedia.org/wiki/Torn_Curtain",
+    "name": "Torn Curtain",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1966
+}{
+    "actors": [],
+    "grossing": 12000000,
+    "link": "https://en.wikipedia.org/wiki/Hombre_(film)",
+    "name": "Hombre",
+    "weights": {},
+    "year": 1967
+}{
+    "actors": [
+        "Paul Newman",
+        "George Kennedy",
+        "J. D. Cannon",
+        "Robert Drivas",
+        "Lou Antonio",
+        "Strother Martin",
+        "Jo Van Fleet"
+    ],
+    "grossing": 16217773,
+    "link": "https://en.wikipedia.org/wiki/Cool_Hand_Luke",
+    "name": "Cool Hand Luke",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1967
+}{
+    "actors": [],
+    "grossing": 3500000,
+    "link": "https://en.wikipedia.org/wiki/The_Secret_War_of_Harry_Frigg",
+    "name": "The Secret War of Harry Frigg",
+    "weights": {},
+    "year": 1968
+}{
+    "actors": [],
+    "grossing": 14644335,
+    "link": "https://en.wikipedia.org/wiki/Winning",
+    "name": "Winning",
+    "weights": {},
+    "year": 1969
+}{
+    "actors": [
+        "Paul Newman",
+        "Robert Redford",
+        "Katharine Ross",
+        "Strother Martin",
+        "Jeff Corey",
+        "Henry Jones (actor)"
+    ],
+    "grossing": 102,
+    "link": "https://en.wikipedia.org/wiki/Butch_Cassidy_and_the_Sundance_Kid",
+    "name": "Butch Cassidy and the Sundance Kid",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1969
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/WUSA_(film)",
+    "name": "WUSA",
+    "weights": {},
+    "year": 1970
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/King:_A_Filmed_Record..._Montgomery_to_Memphis",
+    "name": "King: A Filmed Record... Montgomery to Memphis",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 4000000,
+    "link": "https://en.wikipedia.org/wiki/Sometimes_a_Great_Notion_(film)",
+    "name": "Sometimes a Great Notion",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Once_Upon_a_Wheel_(1971_TV_program)",
+    "name": "Once Upon a Wheel",
+    "weights": {},
+    "year": 1971
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Pocket_Money",
+    "name": "Pocket Money",
+    "weights": {},
+    "year": 1972
+}{
+    "actors": [],
+    "grossing": 16530578,
+    "link": "https://en.wikipedia.org/wiki/The_Life_and_Times_of_Judge_Roy_Bean",
+    "name": "The Life and Times of Judge Roy Bean",
+    "weights": {},
+    "year": 1972
+}{
+    "actors": [],
+    "grossing": 1500000,
+    "link": "https://en.wikipedia.org/wiki/The_Mackintosh_Man",
+    "name": "The Mackintosh Man",
+    "weights": {},
+    "year": 1973
+}{
+    "actors": [],
+    "grossing": 159,
+    "link": "https://en.wikipedia.org/wiki/The_Sting",
+    "name": "The Sting",
+    "weights": {},
+    "year": 1973
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Drowning_Pool_(film)",
+    "name": "The Drowning Pool",
+    "weights": {},
+    "year": 1975
+}{
+    "actors": [
+        "Marty Feldman",
+        "Dom DeLuise",
+        "Bernadette Peters",
+        "Sid Caesar"
+    ],
+    "grossing": 36,
+    "link": "https://en.wikipedia.org/wiki/Silent_Movie",
+    "name": "Silent Movie",
+    "weights": {},
+    "year": 1976
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Buffalo_Bill_and_the_Indians",
+    "name": "Buffalo Bill and the Indians",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 28000000,
+    "link": "https://en.wikipedia.org/wiki/Slap_Shot_(film)",
+    "name": "Slap Shot",
+    "weights": {},
+    "year": 1977
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Quintet_(film)",
+    "name": "Quintet",
+    "weights": {},
+    "year": 1979
+}{
+    "actors": [],
+    "grossing": 3763988,
+    "link": "https://en.wikipedia.org/wiki/When_Time_Ran_Out",
+    "name": "When Time Ran Out",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Paul Newman",
+        "Ed Asner",
+        "Ken Wahl",
+        "Danny Aiello",
+        "Rachel Ticotin",
+        "Pam Grier",
+        "Kathleen Beller"
+    ],
+    "grossing": 65,
+    "link": "https://en.wikipedia.org/wiki/Fort_Apache,_The_Bronx",
+    "name": "Fort Apache: The Bronx",
+    "weights": {
+        "Danny Aiello": 83,
+        "Paul Newman": 83
+    },
+    "year": 0
+}{
+    "actors": [
+        "Paul Newman",
+        "Sally Field"
+    ],
+    "grossing": 40716963,
+    "link": "https://en.wikipedia.org/wiki/Absence_of_Malice",
+    "name": "Absence of Malice",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1981
+}{
+    "actors": [
+        "Robby Benson",
+        "Ellen Barkin",
+        "Wilford Brimley",
+        "Ossie Davis",
+        "Joanne Woodward"
+    ],
+    "grossing": 4864980,
+    "link": "https://en.wikipedia.org/wiki/Harry_%26_Son",
+    "name": "Harry & Son",
+    "weights": {},
+    "year": 1984
+}{
+    "actors": [
+        "Paul Newman",
+        "Tom Cruise",
+        "Mary Elizabeth Mastrantonio"
+    ],
+    "grossing": 52,
+    "link": "https://en.wikipedia.org/wiki/The_Color_of_Money",
+    "name": "The Color of Money",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1986
+}{
+    "actors": [
+        "Paul Newman",
+        "Dwight Schultz",
+        "Bonnie Bedelia",
+        "John Cusack",
+        "Laura Dern",
+        "John C. McGinley"
+    ],
+    "grossing": 3563162,
+    "link": "https://en.wikipedia.org/wiki/Fat_Man_and_Little_Boy",
+    "name": "Fat Man and Little Boy",
+    "weights": {
+        "Bonnie Bedelia": 68,
+        "John Cusack": 50,
+        "Paul Newman": 83
+    },
+    "year": 0
+}{
+    "actors": [
+        "Paul Newman",
+        "Lolita Davidovich"
+    ],
+    "grossing": 19131246,
+    "link": "https://en.wikipedia.org/wiki/Blaze_(film)",
+    "name": "Blaze",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1989
+}{
+    "actors": [
+        "Paul Newman",
+        "Joanne Woodward",
+        "Blythe Danner",
+        "Kyra Sedgwick",
+        "Robert Sean Leonard"
+    ],
+    "grossing": 7698010,
+    "link": "https://en.wikipedia.org/wiki/Mr._and_Mrs._Bridge",
+    "name": "Mr. & Mrs. Bridge",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1990
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/La_Classe_am%C3%A9ricaine",
+    "name": "La Classe am\u00e9ricaine",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Tim Robbins",
+        "Jennifer Jason Leigh",
+        "Paul Newman"
+    ],
+    "grossing": 2,
+    "link": "https://en.wikipedia.org/wiki/The_Hudsucker_Proxy",
+    "name": "The Hudsucker Proxy",
+    "weights": {
+        "Paul Newman": 83,
+        "Tim Robbins": 58
+    },
+    "year": 1994
+}{
+    "actors": [
+        "Paul Newman",
+        "Susan Sarandon",
+        "Gene Hackman",
+        "Stockard Channing",
+        "Reese Witherspoon",
+        "Giancarlo Esposito"
+    ],
+    "grossing": 15055091,
+    "link": "https://en.wikipedia.org/wiki/Twilight_(1998_film)",
+    "name": "Twilight",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1998
+}{
+    "actors": [
+        "Robin Wright",
+        "John Savage (actor)",
+        "Illeana Douglas",
+        "Robbie Coltrane",
+        "Paul Newman"
+    ],
+    "grossing": 118880016,
+    "link": "https://en.wikipedia.org/wiki/Message_in_a_Bottle_(film)",
+    "name": "Message in a Bottle",
+    "weights": {
+        "Paul Newman": 83
+    },
+    "year": 1999
+}{
+    "actors": [],
+    "grossing": 7243669,
+    "link": "https://en.wikipedia.org/wiki/Where_the_Money_Is",
+    "name": "Where the Money Is",
+    "weights": {},
+    "year": 2000
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Simpsons",
+    "name": "The Simpsons",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Tom Hanks",
+        "Paul Newman",
+        "Jude Law",
+        "Jennifer Jason Leigh",
+        "Stanley Tucci",
+        "Daniel Craig"
+    ],
+    "grossing": 181,
+    "link": "https://en.wikipedia.org/wiki/Road_to_Perdition",
+    "name": "Road to Perdition",
+    "weights": {
+        "Paul Newman": 83,
+        "Stanley Tucci": 56,
+        "Tom Hanks": 60
+    },
+    "year": 2002
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Our_Town_(2003_film)",
+    "name": "Our Town",
+    "weights": {},
+    "year": 2003
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Empire_Falls_(miniseries)",
+    "name": "Empire Falls",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 40339402,
+    "link": "https://en.wikipedia.org/wiki/Magnificent_Desolation:_Walking_on_the_Moon_3D",
+    "name": "Magnificent Desolation:\nWalking on the Moon 3D",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 462,
+    "link": "https://en.wikipedia.org/wiki/Cars_(film)",
+    "name": "Cars",
+    "weights": {},
+    "year": 2006
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Dale_(film)",
+    "name": "Dale",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Meerkats",
+    "name": "The Meerkats",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Asphalt_Jungle_(TV_series)",
+    "name": "The Asphalt Jungle",
+    "weights": {},
+    "year": 1961
+}{
+    "actors": [],
+    "grossing": 1,
+    "link": "https://en.wikipedia.org/wiki/You%27re_in_the_Navy_Now",
+    "name": "You're in the Navy Now",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Richard Widmark",
+        "Dana Andrews",
+        "Gary Merrill"
+    ],
+    "grossing": 2,
+    "link": "https://en.wikipedia.org/wiki/The_Frogmen",
+    "name": "The Frogmen",
+    "weights": {},
+    "year": 1951
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Man_with_My_Face_(film)",
+    "name": "The Man with My Face",
+    "weights": {},
+    "year": 1951
+}{
+    "actors": [],
+    "grossing": 1,
+    "link": "https://en.wikipedia.org/wiki/Red_Ball_Express_(film)",
+    "name": "Red Ball Express",
+    "weights": {},
+    "year": 1952
+}{
+    "actors": [],
+    "grossing": 30500000,
+    "link": "https://en.wikipedia.org/wiki/From_Here_to_Eternity",
+    "name": "From Here to Eternity",
+    "weights": {},
+    "year": 1953
+}{
+    "actors": [],
+    "grossing": 760000,
+    "link": "https://en.wikipedia.org/wiki/Edge_of_the_City",
+    "name": "Edge of the City",
+    "weights": {},
+    "year": 1957
+}{
+    "actors": [],
+    "grossing": 1,
+    "link": "https://en.wikipedia.org/wiki/The_Bachelor_Party",
+    "name": "The Bachelor Party",
+    "weights": {},
+    "year": 1953
+}{
+    "actors": [
+        "Lee J. Cobb",
+        "Ed Begley",
+        "E. G. Marshall",
+        "Jack Warden"
+    ],
+    "grossing": 1000000,
+    "link": "https://en.wikipedia.org/wiki/12_Angry_Men_(1957_film)",
+    "name": "12 Angry Men",
+    "weights": {
+        "Jack Warden": 85
+    },
+    "year": 1957
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Darby%27s_Rangers",
+    "name": "Darby's Rangers",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Run_Silent,_Run_Deep_(1958_film)",
+    "name": "Run Silent, Run Deep",
+    "weights": {},
+    "year": 1958
+}{
+    "actors": [],
+    "grossing": 1,
+    "link": "https://en.wikipedia.org/wiki/The_Sound_and_the_Fury_(1959_film)",
+    "name": "The Sound and the Fury",
+    "weights": {},
+    "year": 1959
+}{
+    "actors": [],
+    "grossing": 1,
+    "link": "https://en.wikipedia.org/wiki/That_Kind_of_Woman",
+    "name": "That Kind of Woman",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 2000000,
+    "link": "https://en.wikipedia.org/wiki/Wake_Me_When_It%27s_Over_(film)",
+    "name": "Wake Me When It's Over",
+    "weights": {},
+    "year": 1960
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Lawbreakers",
+    "name": "The Lawbreakers",
+    "weights": {},
+    "year": 1961
+}{
+    "actors": [
+        "Yul Brynner",
+        "Anthony Caruso (actor)",
+        "Sal Mineo",
+        "Jay Novello",
+        "Madlyn Rhue",
+        "Leonard Strong (actor)",
+        "Jack Warden",
+        "James Mason",
+        "Vladimir Sokoloff"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Escape_from_Zahrain",
+    "name": "Escape from Zahrain",
+    "weights": {
+        "Jack Warden": 85,
+        "James Mason": 75
+    },
+    "year": 1962
+}{
+    "actors": [],
+    "grossing": 6600000,
+    "link": "https://en.wikipedia.org/wiki/Donovan%27s_Reef",
+    "name": "Donovan's Reef",
+    "weights": {},
+    "year": 1963
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Thin_Red_Line_(1964_film)",
+    "name": "The Thin Red Line",
+    "weights": {},
+    "year": 1964
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Blindfold_(film)",
+    "name": "Blindfold",
+    "weights": {},
+    "year": 1966
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Bye_Bye_Braverman",
+    "name": "Bye Bye Braverman",
+    "weights": {},
+    "year": 1968
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Who_Is_Harry_Kellerman_and_Why_Is_He_Saying_Those_Terrible_Things_About_Me%3F",
+    "name": "Who Is Harry Kellerman and Why Is He Saying Those Terrible Things About Me?",
+    "weights": {},
+    "year": 1971
+}{
+    "actors": [],
+    "grossing": 3600000,
+    "link": "https://en.wikipedia.org/wiki/The_Man_Who_Loved_Cat_Dancing_(film)",
+    "name": "The Man Who Loved Cat Dancing",
+    "weights": {},
+    "year": 1973
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Billy_Two_Hats",
+    "name": "Billy Two Hats",
+    "weights": {},
+    "year": 1974
+}{
+    "actors": [],
+    "grossing": 1,
+    "link": "https://en.wikipedia.org/wiki/The_Apprenticeship_of_Duddy_Kravitz_(film)",
+    "name": "The Apprenticeship of Duddy Kravitz",
+    "weights": {},
+    "year": 1974
+}{
+    "actors": [],
+    "grossing": 60,
+    "link": "https://en.wikipedia.org/wiki/Shampoo_(film)",
+    "name": "Shampoo",
+    "weights": {},
+    "year": 1975
+}{
+    "actors": [],
+    "grossing": 70,
+    "link": "https://en.wikipedia.org/wiki/All_the_President%27s_Men_(film)",
+    "name": "All the President's Men",
+    "weights": {},
+    "year": 1976
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Raid_on_Entebbe_(film)",
+    "name": "Raid on Entebbe",
+    "weights": {},
+    "year": 1977
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_White_Buffalo",
+    "name": "The White Buffalo",
+    "weights": {},
+    "year": 1977
+}{
+    "actors": [
+        "Julie Christie",
+        "James Mason",
+        "Jack Warden",
+        "Charles Grodin",
+        "Dyan Cannon",
+        "R G Armstrong"
+    ],
+    "grossing": 81,
+    "link": "https://en.wikipedia.org/wiki/Heaven_Can_Wait_(1978_film)",
+    "name": "Heaven Can Wait",
+    "weights": {
+        "Jack Warden": 85,
+        "James Mason": 75
+    },
+    "year": 1978
+}{
+    "actors": [],
+    "grossing": 14560084,
+    "link": "https://en.wikipedia.org/wiki/Death_on_the_Nile_(1978_film)",
+    "name": "Death on the Nile",
+    "weights": {},
+    "year": 1978
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Dreamer_(1979_film)",
+    "name": "Dreamer",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Beyond_the_Poseidon_Adventure",
+    "name": "Beyond the Poseidon Adventure",
+    "weights": {},
+    "year": 1979
+}{
+    "actors": [
+        "Al Pacino",
+        "Jack Warden",
+        "John Forsythe",
+        "Lee Strasberg"
+    ],
+    "grossing": 33300000,
+    "link": "https://en.wikipedia.org/wiki/...And_Justice_for_All_(film)",
+    "name": "...And Justice For All",
+    "weights": {
+        "Jack Warden": 85,
+        "John Forsythe": -1
+    },
+    "year": 0
+}{
+    "actors": [],
+    "grossing": 30177511,
+    "link": "https://en.wikipedia.org/wiki/Being_There",
+    "name": "Being There",
+    "weights": {},
+    "year": 1979
+}{
+    "actors": [
+        "Kurt Russell",
+        "Jack Warden",
+        "Gerrit Graham",
+        "Deborah Harmon"
+    ],
+    "grossing": 11,
+    "link": "https://en.wikipedia.org/wiki/Used_Cars",
+    "name": "Used Cars",
+    "weights": {
+        "Jack Warden": 85
+    },
+    "year": 1980
+}{
+    "actors": [
+        "Jim Henson",
+        "Frank Oz",
+        "Dave Goelz",
+        "Jerry Nelson",
+        "Richard Hunt (puppeteer)",
+        "Steve Whitmire",
+        "Diana Rigg",
+        "Charles Grodin"
+    ],
+    "grossing": 31,
+    "link": "https://en.wikipedia.org/wiki/The_Great_Muppet_Caper",
+    "name": "The Great Muppet Caper",
+    "weights": {},
+    "year": 1981
+}{
+    "actors": [],
+    "grossing": 9566593,
+    "link": "https://en.wikipedia.org/wiki/Carbon_Copy_(film)",
+    "name": "Carbon Copy",
+    "weights": {},
+    "year": 1981
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Chu_Chu_and_the_Philly_Flash",
+    "name": "Chu Chu and the Philly Flash",
+    "weights": {},
+    "year": 1981
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/So_Fine_(film)",
+    "name": "So Fine",
+    "weights": {},
+    "year": 1981
+}{
+    "actors": [
+        "Donald Sutherland",
+        "Jack Warden",
+        "Sean Penn"
+    ],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Crackers_(1984_film)",
+    "name": "Crackers",
+    "weights": {
+        "Jack Warden": 85,
+        "Sean Penn": 56
+    },
+    "year": 1984
+}{
+    "actors": [
+        "Christopher Reeve",
+        "Rosanna Arquette",
+        "Jack Warden",
+        "Tyne Daly"
+    ],
+    "grossing": 1304192,
+    "link": "https://en.wikipedia.org/wiki/The_Aviator_(1985_film)",
+    "name": "The Aviator",
+    "weights": {
+        "Jack Warden": 85,
+        "Rosanna Arquette": 57
+    },
+    "year": 1985
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(1985_film)",
+    "name": "Alice in Wonderland",
+    "weights": {},
+    "year": 1985
+}{
+    "actors": [
+        "Denholm Elliott",
+        "Mia Farrow",
+        "Elaine Stritch",
+        "Jack Warden",
+        "Sam Waterston",
+        "Dianne Wiest"
+    ],
+    "grossing": 486434,
+    "link": "https://en.wikipedia.org/wiki/September_(1987_film)",
+    "name": "September",
+    "weights": {
+        "Jack Warden": 85
+    },
+    "year": 1987
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/Dead_Solid_Perfect",
+    "name": "Dead Solid Perfect",
+    "weights": {},
+    "year": 1988
+}{
+    "actors": [
+        "Sean Connery",
+        "Mark Harmon",
+        "Meg Ryan",
+        "Jack Warden"
+    ],
+    "grossing": 20036242,
+    "link": "https://en.wikipedia.org/wiki/The_Presidio_(film)",
+    "name": "The Presidio",
+    "weights": {
+        "Jack Warden": 85
+    },
+    "year": 1988
+}{
+    "actors": [
+        "Debra Winger",
+        "Nick Nolte",
+        "Will Patton",
+        "Judith Ivey",
+        "Jack Warden"
+    ],
+    "grossing": 1372350,
+    "link": "https://en.wikipedia.org/wiki/Everybody_Wins_(film)",
+    "name": "Everybody Wins",
+    "weights": {
+        "Jack Warden": 85,
+        "Nick Nolte": 76,
+        "Will Patton": 62
+    },
+    "year": 1990
+}{
+    "actors": [
+        "John Ritter",
+        "Amy Yasbeck",
+        "Michael Richards",
+        "Gilbert Gottfried",
+        "Jack Warden"
+    ],
+    "grossing": 72,
+    "link": "https://en.wikipedia.org/wiki/Problem_Child_(film)",
+    "name": "Problem Child",
+    "weights": {
+        "Jack Warden": 85,
+        "John Ritter": -1
+    },
+    "year": 1990
+}{
+    "actors": [
+        "John Ritter",
+        "Michael Oliver (actor)",
+        "Laraine Newman",
+        "Amy Yasbeck",
+        "Jack Warden"
+    ],
+    "grossing": 32,
+    "link": "https://en.wikipedia.org/wiki/Problem_Child_2",
+    "name": "Problem Child 2",
+    "weights": {
+        "Jack Warden": 85,
+        "John Ritter": -1
+    },
+    "year": 0
+}{
+    "actors": [
+        "Bob Hoskins",
+        "Blair Brown",
+        "Tim Curry",
+        "Frances McDormand",
+        "William Petersen",
+        "Pamela Reed",
+        "Peter Riegert",
+        "Maureen Stapleton",
+        "Nancy Travis",
+        "Jack Warden"
+    ],
+    "grossing": 4,
+    "link": "https://en.wikipedia.org/wiki/Passed_Away_(film)",
+    "name": "Passed Away",
+    "weights": {
+        "Frances McDormand": 59,
+        "Jack Warden": 85,
+        "Tim Curry": 70
+    },
+    "year": 1992
+}{
+    "actors": [
+        "Robert De Niro",
+        "Jessica Lange",
+        "Cliff Gorman",
+        "Jack Warden",
+        "Alan King"
+    ],
+    "grossing": 6202756,
+    "link": "https://en.wikipedia.org/wiki/Night_and_the_City_(1992_film)",
+    "name": "Night and the City",
+    "weights": {
+        "Jack Warden": 85,
+        "Robert De Niro": 73
+    },
+    "year": 1992
+}{
+    "actors": [
+        "Robin Williams",
+        "Michael Gambon",
+        "Joan Cusack",
+        "Robin Wright",
+        "LL Cool J"
+    ],
+    "grossing": 23,
+    "link": "https://en.wikipedia.org/wiki/Toys_(film)",
+    "name": "Toys",
+    "weights": {},
+    "year": 1992
+}{
+    "actors": [
+        "Rebecca De Mornay",
+        "Don Johnson",
+        "Stephen Lang",
+        "Jack Warden"
+    ],
+    "grossing": 22886222,
+    "link": "https://en.wikipedia.org/wiki/Guilty_as_Sin",
+    "name": "Guilty as Sin",
+    "weights": {
+        "Jack Warden": 85
+    },
+    "year": 1993
+}{
+    "actors": [
+        "Jim Broadbent",
+        "John Cusack",
+        "Harvey Fierstein",
+        "Chazz Palminteri",
+        "Mary-Louise Parker",
+        "Rob Reiner",
+        "Jennifer Tilly",
+        "Tracey Ullman",
+        "Joe Viterelli",
+        "Jack Warden",
+        "Dianne Wiest"
+    ],
+    "grossing": 13,
+    "link": "https://en.wikipedia.org/wiki/Bullets_over_Broadway",
+    "name": "Bullets over Broadway",
+    "weights": {
+        "Jack Warden": 85,
+        "John Cusack": 50,
+        "Mary-Louise Parker": 52
+    },
+    "year": 1994
+}{
+    "actors": [
+        "Sandra Bullock",
+        "Bill Pullman",
+        "Peter Gallagher",
+        "Peter Boyle",
+        "Glynis Johns",
+        "Jack Warden"
+    ],
+    "grossing": 182057016,
+    "link": "https://en.wikipedia.org/wiki/While_You_Were_Sleeping_(film)",
+    "name": "While You Were Sleeping",
+    "weights": {
+        "Jack Warden": 85,
+        "Peter Gallagher": 61
+    },
+    "year": 1995
+}{
+    "actors": [
+        "Andy Garc\u00eda",
+        "Christopher Lloyd",
+        "William Forsythe (actor)",
+        "Bill Nunn",
+        "Treat Williams",
+        "Jack Warden",
+        "Steve Buscemi",
+        "Fairuza Balk",
+        "Gabrielle Anwar",
+        "Christopher Walken"
+    ],
+    "grossing": 529677,
+    "link": "https://en.wikipedia.org/wiki/Things_to_Do_in_Denver_When_You%27re_Dead",
+    "name": "Things to Do in Denver When You're Dead",
+    "weights": {
+        "Christopher Lloyd": 78,
+        "Christopher Walken": 73,
+        "Jack Warden": 85,
+        "Steve Buscemi": 59
+    },
+    "year": 1995
+}{
+    "actors": [
+        "F. Murray Abraham",
+        "Claire Bloom",
+        "Helena Bonham Carter",
+        "Olympia Dukakis",
+        "Michael Rapaport",
+        "Mira Sorvino",
+        "David Ogden Stiers",
+        "Jack Warden",
+        "Peter Weller"
+    ],
+    "grossing": 26,
+    "link": "https://en.wikipedia.org/wiki/Mighty_Aphrodite",
+    "name": "Mighty Aphrodite",
+    "weights": {
+        "Jack Warden": 85,
+        "Olympia Dukakis": 85
+    },
+    "year": 1995
+}{
+    "actors": [
+        "Matt LeBlanc",
+        "Jayne Brook",
+        "Bill Cobbs",
+        "Jack Warden"
+    ],
+    "grossing": 4422330,
+    "link": "https://en.wikipedia.org/wiki/Ed_(film)",
+    "name": "Ed",
+    "weights": {
+        "Jack Warden": 85
+    },
+    "year": 1996
+}{
+    "actors": [],
+    "grossing": 0,
+    "link": "https://en.wikipedia.org/wiki/The_Island_on_Bird_Street_(film)",
+    "name": "The Island on Bird Street",
+    "weights": {},
+    "year": 0
+}{
+    "actors": [
+        "Carrot Top",
+        "Courtney Thorne-Smith",
+        "Larry Miller (entertainer)",
+        "Raquel Welch",
+        "Mystro Clark",
+        "M. Emmet Walsh",
+        "Jack Warden"
+    ],
+    "grossing": 181233,
+    "link": "https://en.wikipedia.org/wiki/Chairman_of_the_Board_(film)",
+    "name": "Chairman of the Board",
+    "weights": {
+        "Jack Warden": 85
+    },
+    "year": 1998
+}{
+    "actors": [
+        "Douglas Smith (actor)",
+        "Lucien Laviscount",
+        "Cressida Bonas",
+        "Doug Jones (actor)",
+        "Carrie-Anne Moss",
+        "Faye Dunaway"
+    ],
+    "grossing": 24,
+    "link": "https://en.wikipedia.org/wiki/The_Bye_Bye_Man",
+    "name": "The Bye Bye Man",
+    "weights": {
+        "Faye Dunaway": 76
+    },
+    "year": 2017
+}
